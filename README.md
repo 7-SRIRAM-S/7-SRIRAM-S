@@ -5,7 +5,7 @@
   Hi, I'm <strong>Sriram S</strong>
 </h1>
 
-<h3>Full Stack Developer | JavaScript • Node.js • Java • DSA</h3>
+<h3>Future Full Stack Developer | JavaScript • Java • Python</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/📧_your-email@example.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:sriramsailappan5@gmail.com"><img src="https://img.shields.io/badge/📧sriramsailappan5@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Dev)-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -32,9 +32,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=7-SRIRAM-S&style=flat-square&color=blue" alt="Profile Visit"/>
@@ -55,14 +52,14 @@
 
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </td>
 
 <td width="50%" align="center">
@@ -117,20 +114,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=7-SRIRAM-S&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=7-SRIRAM-S&show_icons=true&theme=dark" alt="Stats" />
-</div>
-
 ---
 
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/your-link">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://instagram.com/im_sree_17" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" width="200"/>
   </a>
 </p>
